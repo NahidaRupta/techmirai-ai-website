@@ -135,6 +135,7 @@
         phone: form.phone.value.trim(),
         industry: form.industry.value,
         message: form.message.value.trim(),
+        consent: consent,
         lang: lang,
         // Honeypot would go here in production
         submittedAt: new Date().toISOString()
