@@ -1,0 +1,24 @@
+{
+  "name": "techmirai-ai-website",
+  "version": "1.0.0",
+  "description": "TechMirai AI — Production landing page (EN/JP) with serverless contact backend.",
+  "private": true,
+  "scripts": {
+  "dev": "next dev",                   
+  "vercel-dev": "vercel dev",
+  "deploy": "vercel --prod",
+  "serve": "npx serve -l 3000 .",
+  "lint:html": "npx html-validate index.html legal/*.html"
+},
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  },
+  "devDependencies": {
+    "vercel": "^53.2.0"
+  },
+  "author": "Jamal Shah",
+  "license": "UNLICENSED"
+}

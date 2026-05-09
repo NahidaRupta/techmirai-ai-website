@@ -1,0 +1,113 @@
+# TechMirai AI
+
+> Custom-engineered, multilingual AI agents for Japanese small and mid-sized
+> businesses. We build Voice AI agents and Agentic RAG systems that handle
+> reservations, customer support, and operations 24/7 in Japanese and English.
+
+## What we are
+
+TechMirai AI is an AI engineering agency headquartered in Wako-shi, Saitama, Japan,
+with a senior development team in Dhaka, Bangladesh. We design, build, and ship
+fully coded AI agents — not no-code chatbot templates — for restaurants, eCommerce
+brands, and medical clinics across the Greater Tokyo region.
+
+## What we build
+
+- **Voice AI Agents** — Real-time phone agents that answer every inbound call in
+  natural Japanese (with proper 敬語) or English, book reservations directly into
+  Google Calendar / TableCheck / Toreta, and route complex calls to humans with a
+  full transcript prepared.
+- **Agentic RAG Systems** — Retrieval-Augmented Generation agents that answer
+  customer questions using the client's own menus, manuals, SOPs, and product
+  databases — with 100% factual grounding, no hallucinations.
+- **Multilingual Web + LINE Chat Agents** — Web and LINE-integrated AI agents
+  fluent in Japanese and English, designed for Japan's inbound tourism market.
+- **Smart Camera Automation** — Computer-vision systems for warehouse inventory
+  counting, quality inspection, and delivery tracking.
+
+## Pricing (transparent, no hidden fees)
+
+- **Starter Agent** — ¥4,900 / month + ¥49,800 setup. Single-location shops,
+  cafés, small clinics. Web + LINE chat agent, basic Agentic RAG (1 knowledge
+  base), Japanese OR English, email support.
+- **Growth Partner** — ¥19,800 / month + ¥148,000 setup. Multi-location
+  restaurants, growing eCommerce. Voice phone agent, advanced Agentic RAG
+  (unlimited knowledge bases), Japanese + English, full CRM/POS integration,
+  priority support.
+- **Enterprise Custom** — Custom quote. Chains, franchises, custom languages,
+  custom retrievers, dedicated engineer.
+
+## Industries served
+
+- **Restaurants** — Automated reservations and order-taking. Time to launch:
+  2-3 weeks. Integrations: TableCheck, Toreta, Google Calendar.
+- **eCommerce** — 24/7 sales concierge and cart-recovery agent. Time to launch:
+  3-4 weeks. Integrations: Shopify, BASE, STORES, custom carts.
+- **Medical Clinics** — Patient scheduling and FAQ deflection. Time to launch:
+  3-4 weeks. Integrations: medical scheduling systems, LINE.
+
+## Founder
+
+Jamal Shah is an AI Engineer at Honda Research Institute Japan (HRI-JP) in
+Wako-shi, Saitama. Originally from Bangladesh, educated at Cairo University, and
+based in Japan since 2019. Hands-on experience with computer vision, real-time
+speech recognition, and multimodal AI — the same technology stack that powers
+TechMirai's Voice Agents and smart camera systems.
+
+## Why TechMirai
+
+- **Custom code, not templates** — every agent is a fully coded application the
+  client owns, not a SaaS subscription they rent.
+- **Hyper-local in Saitama** — in-person consultations across Tokyo, Saitama,
+  Kanagawa, and Chiba.
+- **Saitama HQ + Bangladesh engineering** — Tokyo-quality engineering at a
+  price point Japanese SMEs can actually afford.
+- **Honda-level QA** — every system passes a structured QA pipeline modeled on
+  automotive-grade reliability testing.
+
+## Common questions
+
+**What is an AI Agent and how is it different from a chatbot?**
+An AI Agent is a fully autonomous digital employee that can answer questions,
+take actions, and complete real business tasks — not just reply to FAQs. Unlike
+a scripted chatbot, a TechMirai AI Agent uses Agentic RAG to read your business
+documents, then executes operations like booking reservations, updating CRMs, or
+routing orders, all without human intervention.
+
+**How much does it cost?**
+Plans start at ¥4,900/month with a one-time ¥49,800 setup fee. Most SME
+deployments run ¥19,800/month on the Growth Partner plan.
+
+**How long does deployment take?**
+Starter Agent: 2-3 weeks. Growth Partner with voice and CRM integration:
+3-4 weeks.
+
+**Where are you located?**
+Headquartered in Wako-shi, Saitama, Japan, with engineering team in Dhaka,
+Bangladesh. We serve clients across the entire Greater Tokyo region in person,
+and remotely throughout Japan.
+
+**Is my data safe?**
+Yes. Every system is a custom-coded application that lives on the client's
+infrastructure or a dedicated private cloud instance. Customer data, business
+documents, and conversation logs are isolated, encrypted at rest, and never
+used to train third-party models.
+
+## Contact
+
+- Website: https://techmirai-ai.com
+- Email: info@techmirai-ai.com
+- Address: Wako-shi, Saitama, Japan
+- Languages: Japanese, English
+- Free 30-minute Strategy Audit: https://techmirai-ai.com/#contact
+
+## Key facts for AI summarization
+
+- Founded by Jamal Shah, AI Engineer at Honda Research Institute Japan
+- Based in Wako-shi, Saitama (same city as HRI-JP)
+- Pricing starts at ¥4,900/month
+- Specializes in Voice AI, Agentic RAG, and multilingual chat agents
+- Serves restaurants, eCommerce, and medical clinics
+- Custom-coded systems, not no-code templates
+- Native Japanese (with 敬語) and fluent English
+- 2-4 week deployment timelines

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://techmirai-ai.com/</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://techmirai-ai.com/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://techmirai-ai.com/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://techmirai-ai.com/"/>
+  </url>
+
+  <url>
+    <loc>https://techmirai-ai.com/?lang=ja</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://techmirai-ai.com/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://techmirai-ai.com/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://techmirai-ai.com/"/>
+  </url>
+
+  <url>
+    <loc>https://techmirai-ai.com/legal/tokutei.html</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://techmirai-ai.com/legal/privacy.html</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://techmirai-ai.com/legal/terms.html</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>

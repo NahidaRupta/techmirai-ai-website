@@ -1,0 +1,63 @@
+# TechMirai AI — robots.txt
+# Optimized for both classical search and AI/LLM crawlers (GEO).
+# Last reviewed: 2026
+
+# --- Default policy -------------------------------------------------------
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# --- AI / LLM crawlers (explicitly allowed for GEO visibility) ------------
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# --- Sitemaps -------------------------------------------------------------
+Sitemap: https://techmirai-ai.com/sitemap.xml
