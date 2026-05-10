@@ -14,7 +14,7 @@ window.translations = {
     "nav.cta": "Free Audit",
 
     // HERO
-    "hero.eyebrow": "Engineered in Wako-shi, Saitama",
+    
     "hero.line1": "Hire a 24/7",
     "hero.line2": "Digital Employee",
     "hero.line3": "— built with Honda-level precision engineering.",
@@ -190,6 +190,7 @@ window.translations = {
     "contact.ind4": "Warehouse / Logistics",
     "contact.ind5": "Other",
     "contact.message": "How can we help?",
+    "contact.message.placeholder": "Please enter at least 10 characters...",
     "contact.consent": "I agree to TechMirai AI's <a href=\"legal/privacy.html\">privacy policy</a>.",
     "contact.submit": "Book my free strategy audit",
     "contact.info.title": "Direct contact",
@@ -228,7 +229,7 @@ window.translations = {
     "nav.cta": "無料診断",
 
     // HERO
-    "hero.eyebrow": "本田技研の街、埼玉県和光市から",
+    
     "hero.line1": "24時間365日 働く",
     "hero.line2": "デジタル従業員",
     "hero.line3": "— ホンダ品質の精密エンジニアリングで設計。",
@@ -404,6 +405,7 @@ window.translations = {
     "contact.ind4": "倉庫 / 物流",
     "contact.ind5": "その他",
     "contact.message": "ご相談内容",
+    "contact.message.placeholder": "10文字以上でご入力ください...",
     "contact.consent": "TechMirai AIの<a href=\"legal/privacy.html\">プライバシーポリシー</a>に同意します。",
     "contact.submit": "無料診断を予約する",
     "contact.info.title": "直接連絡先",

@@ -44,6 +44,13 @@
         el.innerHTML = dict[key];
       }
     });
+    // Update placeholders
+    document.querySelectorAll('[data-i18n-placeholder]').forEach(function (el) {
+      const key = el.getAttribute('data-i18n-placeholder');
+      if (dict[key] !== undefined) {
+        el.placeholder = dict[key];
+      }
+    });
 
     // Update toggle UI
     document.querySelectorAll('.lang-toggle__opt').forEach(function (opt) {
