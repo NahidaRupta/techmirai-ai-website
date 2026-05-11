@@ -25,11 +25,11 @@
   --indigo: #1E2A44;
 
   /* Type */
-  --f-display: 'Fraunces', 'Noto Serif JP', Georgia, serif;
-  --f-body: 'Plus Jakarta Sans', 'Noto Sans JP', system-ui, sans-serif;
-  --f-jp-display: 'Noto Serif JP', 'Fraunces', serif;
-  --f-jp-body: 'Noto Sans JP', 'Plus Jakarta Sans', sans-serif;
-  --f-mono: 'JetBrains Mono', ui-monospace, monospace;
+  --f-display: Arial, Helvetica, sans-serif;
+  --f-body: Arial, Helvetica, sans-serif;
+  --f-jp-display: Arial, Helvetica, sans-serif;
+  --f-jp-body: Arial, Helvetica, sans-serif;
+  --f-mono: Arial, Helvetica, sans-serif;
 
   /* Spacing scale */
   --s-1: 0.25rem;
@@ -1324,7 +1324,8 @@ html[data-lang="ja"] .qa summary { font-family: var(--f-jp-display); font-weight
   .menu-toggle { display: flex; }
   .topbar__right .btn { display: none; }
   .lang-toggle { font-size: 0.72rem; }
-  .logo-img { height: 45px; }
+  .logo-img { height: 85px; }
+  .logo-img { margin-top: 15px; }
   section { padding: var(--s-8) 0; }
   .hero { padding: var(--s-7) 0 var(--s-8) 0; }
   .hero__trust { gap: var(--s-4); }
