@@ -17,11 +17,10 @@ window.translations = {
     
     "hero.line1": "Hire a 24/7",
     "hero.line2": "Digital Employee",
-    "hero.line3": "— built with Honda-level precision engineering.",
-    "hero.lede": "Stop losing customers to silence. In Japan, a 30-minute reply delay is a lost sale. We build Voice AI Agents and Agentic RAG systems that answer every call, every chat, in three languages — so your business never sleeps.",
+    "hero.lede": "Stop losing customers to silence. In Japan, a 30-minute reply delay is a lost sale. We build Voice AI Agents and Agentic RAG systems that answer every call, every chat — so your business never sleeps.",
     "hero.cta1": "Book a Free 30-Min Strategy Audit",
     "hero.cta2": "See Pricing — from ¥4,900/mo",
-    "hero.trust1": "Languages: 日本語 / EN / বাংলা",
+    "hero.trust1": "Languages: 日本語 / EN",
     "hero.trust2": "Always answering",
     "hero.trust3": "Weeks to launch",
 
@@ -149,9 +148,6 @@ window.translations = {
     "about.pillar1.body": "Every agent ships as a fully coded application you own — not a SaaS subscription you rent.",
     "about.pillar2.title": "Hyper-Local + Global Bridge",
     "about.pillar2.body": "Saitama HQ for in-person meetings across Greater Tokyo. Senior engineering team in Bangladesh keeps Tokyo-quality engineering at SME prices.",
-    "about.pillar3.title": "Honda-Level QA",
-    "about.pillar3.body": "Every system passes a structured QA pipeline modeled on automotive-grade reliability testing. No prompt-injection vulnerabilities. No hallucinated answers.",
-
     // FAQ
     "faq.eyebrow": "FAQ",
     "faq.title": "Frequently asked <em>questions.</em>",
@@ -159,8 +155,8 @@ window.translations = {
     "faq.a1": "An AI Agent is a fully autonomous digital employee that can answer questions, take actions, and complete real business tasks — not just reply to FAQs. Unlike a scripted chatbot, a TechMirai AI Agent uses Agentic RAG to read your business documents, then executes operations like booking reservations, updating CRMs, or routing orders, all without human intervention.",
     "faq.q2": "How much does a TechMirai AI Agent cost in Japan?",
     "faq.a2": "Three pricing tiers built for the Japanese SME market: the Starter Agent at ¥4,900/month for single-location businesses, the Growth Partner at ¥19,800/month for multi-location and voice-enabled deployments, and a custom Enterprise plan for chains and franchises. One-time setup fees start at ¥49,800.",
-    "faq.q3": "Does the AI support Japanese, English, and Bengali?",
-    "faq.a3": "Yes — multilingual support is built in by default. Our agents speak natural Japanese (including proper 敬語 / keigo), fluent English, and native-level Bengali, making them ideal for restaurants serving inbound tourists, eCommerce brands selling globally, and clinics treating international and South Asian patients.",
+    "faq.q3": "Does the AI support Japanese and English?",
+    "faq.a3": "Yes — multilingual support is built in by default. Our agents speak natural Japanese (including proper 敬語 / keigo) and fluent English, making them ideal for restaurants serving inbound tourists, eCommerce brands selling globally, and clinics treating international and South Asian patients.",
     "faq.q4": "Can a Voice AI Agent really replace my receptionist or front desk?",
     "faq.a4": "A TechMirai Voice Agent handles roughly 80% of inbound calls — bookings, FAQs, hours, directions, order status — fully autonomously, 24/7. The remaining 20% (complex complaints, VIP customers, edge cases) is intelligently routed to your human staff with a full transcript and context summary already prepared, so your team works smarter, not harder.",
     "faq.q5": "How long does it take to launch a TechMirai AI system?",
@@ -232,11 +228,10 @@ window.translations = {
     
     "hero.line1": "24時間365日 働く",
     "hero.line2": "デジタル従業員",
-    "hero.line3": "— ホンダ品質の精密エンジニアリングで設計。",
-    "hero.lede": "「沈黙」によって顧客を失い続けていませんか。日本市場では、30分の返信遅延が失注に直結します。当社は、すべての電話・チャットに3言語で応答するボイスAIエージェントとAgentic RAGシステムを構築。御社のビジネスを24時間365日、止めません。",
+    "hero.lede": "「沈黙」によって顧客を失い続けていませんか。日本市場では、30分の返信遅延が失注に直結します。当社は、すべての電話・チャットに応答するボイスAIエージェントとAgentic RAGシステムを構築。御社のビジネスを24時間365日、止めません。",
     "hero.cta1": "無料・30分の戦略診断を予約する",
     "hero.cta2": "料金プランを見る — 月額¥4,900〜",
-    "hero.trust1": "対応言語: 日本語 / 英語 / ベンガル語",
+    "hero.trust1": "対応言語: 日本語 / 英語",
     "hero.trust2": "常時応答",
     "hero.trust3": "週で稼働開始",
 
@@ -364,8 +359,6 @@ window.translations = {
     "about.pillar1.body": "納品物は、御社が「所有する」フルコーディング済みアプリケーション。借りるSaaSではありません。",
     "about.pillar2.title": "ローカル + グローバル ブリッジ",
     "about.pillar2.body": "埼玉本社で首都圏のお客様に直接お会いし、バングラデシュのシニアエンジニアリングチームで「東京品質を地方価格で」実現します。",
-    "about.pillar3.title": "ホンダ品質のQA",
-    "about.pillar3.body": "全システムが、自動車業界の信頼性試験を参考にした体系的QAパイプラインを通過。プロンプトインジェクション脆弱性なし、ハルシネーション応答なし。",
 
     // FAQ
     "faq.eyebrow": "よくあるご質問",
@@ -374,8 +367,8 @@ window.translations = {
     "faq.a1": "AIエージェントは、質問への回答だけでなく、行動を起こし、実際の業務タスクを完結させる「自律型のデジタル従業員」です。台本通りに動くチャットボットとは異なり、当社のAIエージェントはAgentic RAG技術で御社の業務文書を読み込み、予約処理、CRM更新、注文ルーティングなどの操作を、人手を介さず自律的に実行します。",
     "faq.q2": "TechMirai AIエージェントの導入費用は?",
     "faq.a2": "日本のSME市場向けに、3つの料金プランをご用意しています。Starter Agent (個店向け、月額¥4,900)、Growth Partner (多店舗・音声対応、月額¥19,800)、Enterprise (チェーン・フランチャイズ向け、個別見積)。初期費用は¥49,800〜です。",
-    "faq.q3": "日本語・英語・ベンガル語に対応していますか?",
-    "faq.a3": "はい、多言語対応は標準機能です。当社のエージェントは、敬語を含む自然な日本語、流暢な英語、ネイティブレベルのベンガル語を話します。インバウンド対応の飲食店、グローバル展開のECブランド、国際/南アジア系患者を抱えるクリニックに最適です。",
+    "faq.q3": "AIは日本語と英語に対応していますか？",
+    "faq.a3": "はい、マルチリンガル対応は標準搭載で、自然な敬語を含む日本語と流暢な英語で対応でき、インバウンド対応の飲食店、グローバルEC、海外・南アジアの患者を扱うクリニックなどに最適です。",
     "faq.q4": "ボイスAIエージェントは、本当に受付スタッフを置き換えられますか?",
     "faq.a4": "当社のボイスエージェントは、受信電話の約80% (予約、FAQ、営業時間、道案内、注文ステータス) を24時間365日、完全自律で処理します。残りの20% (複雑なクレーム、VIP対応、例外ケース) は、文脈サマリ・全文書き起こし付きで人間スタッフへ自動引継ぎ。スタッフは「より重要な仕事」に集中できます。",
     "faq.q5": "稼働開始まで、どのくらいの期間がかかりますか?",
